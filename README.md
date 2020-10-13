@@ -1,2 +1,8 @@
-# pathogen-omics
-The main information page for BIOM528 Plant pathogens
+Welcome to the UoE BIOM528 Workshop pages
+
+Here you will find ..
+
+
+### Workshops
+
+* [Workshops](https://uoe-biom528.github.io/workshops/)
